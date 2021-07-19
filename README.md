@@ -8,8 +8,10 @@
 <br/>
 
 
-<br/>
 - I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
+
+
+<br/>
 
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=theAyushAT&show_icons=true&title_color=fff&icon_color=7510F7&text_color=daf7dc&bg_color=151515)
