@@ -8,7 +8,6 @@
 <br/>
 
 
-Hi, I'm Ayush Tiwari, pursuing B.Tech in Electronics and Communication from National Institute of Technology, Delhi.
 <br/>
 - I'm broadly interested in deep learning, with the applications at the intersection of computer vision. 
 
